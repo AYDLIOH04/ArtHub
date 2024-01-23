@@ -1,2 +1,6 @@
 # ArtHub - платформа digital дизайна
-## Выполняется в рамках проектного практикума 2 курса ИРИТ-РТФ (2023 год, 1 семестр)
+## Выполнено в рамках проектного практикума 2 курса ИРИТ-РТФ (2023 год, 1 семестр)
+
+[![Watch the video]](https://www.youtube.com/watch?v=i8GDRTa9f8A)
+
+https://www.youtube.com/embed/i8GDRTa9f8A
